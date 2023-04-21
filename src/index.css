@@ -67,3 +67,199 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.timestamp-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.timestamp-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-container > div > label {
+  width: 100px;
+  text-align: right;
+  margin-right: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.timestamp-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.timestamp-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-container > div > label {
+  width: 100px;
+  text-align: right;
+  margin-right: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.timestamp-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.timestamp-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-container > div > label {
+  width: 100px;
+  text-align: right;
+  margin-right: 10px;
+}table {
+  border-collapse: collapse;
+  margin: 20px 0;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: justify;
+}
+
+.input-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.input-container label {
+  display: inline-block;
+  width: 150px;
+}
+
+.input-container input {
+  display: inline-block;
+  width: 300px;
+  margin-left: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+.copy-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+.copy-button:hover {
+  background-color: #006380;
+}
+.timestamp-inputs div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.timestamp-inputs label {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.timestamp-inputs input {
+  width: 50px;
+}
+
+.container {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+
